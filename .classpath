@@ -6,7 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/reza/Downloads/lucene-core-2.0.0.jar">
+	<classpathentry kind="lib" path="/Users/reza/eclipse-workspace/document-sme-tagger/java-json.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/reza/eclipse-workspace/document-sme-tagger/lucene-core-2.0.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

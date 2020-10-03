@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Sustainability Science",
+    "content": "Sustainability Science probes interactions between global, social, and human systems, the complex mechanisms that lead to degradation of these systems, and concomitant risks to human well-being. The journal provides a platform for building sustainability science as an evolving academic discipline which can point the way to a sustainable global society by facing challenges that existing disciplines have not addressed. These include endeavors to simultaneously understand phenomena and solve problems, uncertainty and application of the precautionary principle, the co-evolution of knowledge and recognition of problems, and trade-offs between global and local problem solving.",
+    "tag": "Economics"
+  },
+  
+  {
+    "title": "Small Business Economics",
+    "content": "Small Business Economics: An Entrepreneurship Journal publishes rigorous research on entrepreneurship, self-employment, family firms, small and medium-sized firms, and new venture creation. The journal has a broad scope, including entrepreneurs' characteristics, occupational choice, new ventures and innovation, firms life courses and performance; as well as the role played by institutions and public policies within local, regional, national and international contexts. Articles published in Small Business Economics typically emphasize the economic and societal relevance of research findings. As a leading entrepreneurship journal, Small Business Economics publishes both theoretical and empirical papers, while encouraging interdisciplinary and cross-disciplinary research from a broad spectrum of disciplines and related fields.",
+    "tag": "Economics"
+  },
+  {
+    "title": "Nonlinear Dynamics",
+    "content": "Nonlinear Dynamics provides a forum for the rapid publication of original research in the field. The journal’s scope encompasses all nonlinear dynamic phenomena associated with mechanical, structural, civil, aeronautical, ocean, electrical, and control systems. Review articles and original contributions are based on analytical, computational, and experimental methods",
+    "tag": "Engineering"
+  },
+  {
+    "title": "MRS Bulletin",
+    "content": "One of the most widely recognized and highly respected publications in advanced materials research, MRS Bulletin features technical theme topics that capture a snapshot of the state-of-the-art of materials research. News and features covering research and development, technology advances, science policy, education and other issues on the state and progress of materials research combine to make this news magazine one of the most valuable MRS member benefits",
+    "tag": "Engineering"
+  },
+  {
+    "title": "Cell Biology and Toxicology",
+    "content": "Cell Biology and Toxicology is an international journal which publishes papers of high scientific standard in the areas of cell biology, genetic, molecular and cellular toxicology.",
+    "tag": "Chemistry"
+  },
+  {
+    "title": "Science China Chemistry",
+    "content": "Science China Chemistry is an academic journal co-sponsored by the Chinese Academy of Sciences and the National Natural Science Foundation of China, and published by Science China Press. The journal publishes high-quality, original results in both basic and applied research",
+    "tag": "Chemistry"
+  }
+]
